@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": true,
+  "tailwindCSS.includeLanguages": {
+    "javascript": "html",
+    "typescript": "html",
+    "typescriptreact": "html",
+    "react": "html",
+    "plaintext": "html"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#073241",
+    "titleBar.activeBackground": "#09465C",
+    "titleBar.activeForeground": "#F7FCFE"
+  }
+}
